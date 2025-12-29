@@ -93,7 +93,7 @@ Unlike expensive SaaS platforms, QuantDinger returns **data ownership** to you. 
 
 ### 1. Universal Data Engine
 Stop worrying about data APIs. QuantDinger features a powerful Data Source Factory pattern:
-- **Crypto**: Seamless integration with **CCXT**, supporting Binance, OKX, Bybit, and 100+ exchanges.
+- **Crypto**: **Direct API connection** for trading (10+ exchanges) combined with **CCXT** for market data (100+ sources).
 - **Stocks**: Integrates Yahoo Finance, Finnhub, Tiingo (US), and AkShare (CN/HK).
 - **Futures/Forex**: Supports OANDA and major futures data sources.
 - **Proxy Support**: Built-in proxy configuration for restricted network environments.
@@ -119,66 +119,23 @@ Your tireless team of analysts:
 
 ## 🏦 Supported Exchanges & Rebates
 
-QuantDinger integrates with major cryptocurrency exchanges via [CCXT](https://github.com/ccxt/ccxt).
+QuantDinger supports **direct connection** to major cryptocurrency exchanges for low-latency execution, while using **CCXT** for broad market data coverage.
 
 > 💡 **Exclusive Benefits**: Create accounts through our partner links below to enjoy **reduced trading fees** and **exclusive bonuses**. It helps support the project at no extra cost to you!
 
-<table>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="Binance" /><br/>
-      <sub><b>Binance</b></sub><br/>
-      <sub>Spot • Futures • Margin</sub><br/>
-      <a href="https://www.bjwebptyiou.com/join/14449926"><img src="https://img.shields.io/badge/💰_Save_on_Fees-00C853?style=flat-square" alt="Register" /></a>
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/OKX-000000?style=for-the-badge&logo=okx&logoColor=white" alt="OKX" /><br/>
-      <sub><b>OKX</b></sub><br/>
-      <sub>Spot • Perpetual • Options</sub><br/>
-      <a href="https://www.bmwweb.ac/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_9OSOJ"><img src="https://img.shields.io/badge/🎁_Fee_Rebate-00C853?style=flat-square" alt="Register" /></a>
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Bitget-00C7B1?style=for-the-badge&logoColor=white" alt="Bitget" /><br/>
-      <sub><b>Bitget</b></sub><br/>
-      <sub>Spot • Futures • Copy Trading</sub><br/>
-      <a href="https://www.bitget.rocks/zh-CN/referral/register?clacCode=91AWLH0U&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"><img src="https://img.shields.io/badge/🔥_Bonus_Available-00C853?style=flat-square" alt="Register" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Bybit-F7931A?style=for-the-badge&logoColor=white" alt="Bybit" /><br/>
-      <sub><b>Bybit</b></sub><br/>
-      <sub>Spot • Derivatives • Earn</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Gate.io-17E6A1?style=for-the-badge&logoColor=white" alt="Gate.io" /><br/>
-      <sub><b>Gate.io</b></sub><br/>
-      <sub>Spot • Futures • NFT</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Kraken-5741D9?style=for-the-badge&logo=kraken&logoColor=white" alt="Kraken" /><br/>
-      <sub><b>Kraken</b></sub><br/>
-      <sub>Spot • Margin • Staking</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/KuCoin-24AE8F?style=for-the-badge&logoColor=white" alt="KuCoin" /><br/>
-      <sub><b>KuCoin</b></sub><br/>
-      <sub>Spot • Futures • Bot</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Huobi-1A73E8?style=for-the-badge&logoColor=white" alt="Huobi" /><br/>
-      <sub><b>HTX (Huobi)</b></sub><br/>
-      <sub>Spot • Futures • Margin</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/100+-Exchanges-blue?style=for-the-badge" alt="More" /><br/>
-      <sub><b>And More...</b></sub><br/>
-      <sub>via CCXT library</sub>
-    </td>
-  </tr>
-</table>
+| Exchange | Features | Sign Up Bonus |
+|:--------:|:---------|:-------------:|
+| <img src="https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=white" height="35"/> | 🥇 **World's Largest**<br/>Spot, Futures, Margin | <a href="https://www.bjwebptyiou.com/join/14449926"><img src="https://img.shields.io/badge/💰_Save_20%25_Fees-00C853?style=for-the-badge" height="35"/></a> |
+| <img src="https://img.shields.io/badge/OKX-000000?style=for-the-badge&logo=okx&logoColor=white" height="35"/> | 🚀 **Web3 & Derivatives**<br/>Spot, Perpetual, Options | <a href="https://www.bmwweb.ac/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_9OSOJ"><img src="https://img.shields.io/badge/🎁_Get_Mystery_Box-00C853?style=for-the-badge" height="35"/></a> |
+| <img src="https://img.shields.io/badge/Bitget-00C7B1?style=for-the-badge&logoColor=white" height="35"/> | 👥 **Social Trading**<br/>Copy Trading, Futures | <a href="https://www.bitget.rocks/zh-CN/referral/register?clacCode=91AWLH0U&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"><img src="https://img.shields.io/badge/🔥_Claim_Bonus-00C853?style=for-the-badge" height="35"/></a> |
+
+<br>
+
+**Also Supported (Direct/CCXT):**
+
+| <img src="https://img.shields.io/badge/Bybit-F7931A?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/Gate.io-17E6A1?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/Kraken-5741D9?style=for-the-badge&logo=kraken&logoColor=white"/> | <img src="https://img.shields.io/badge/KuCoin-24AE8F?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/HTX-1A73E8?style=for-the-badge&logoColor=white"/> |
+|:---:|:---:|:---:|:---:|:---:|
+
 
 ---
 
