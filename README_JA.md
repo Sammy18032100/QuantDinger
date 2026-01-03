@@ -321,7 +321,7 @@ QuantDingerを実行する最速の方法です。
 ```bash
 git clone https://github.com/brokermr810/QuantDinger.git && \
 cd QuantDinger && \
-cp docker.env.example backend_api_python/.env && \
+cp backend_api_python/env.example backend_api_python/.env && \
 docker-compose up -d --build
 ```
 
@@ -329,7 +329,7 @@ docker-compose up -d --build
 ```powershell
 git clone https://github.com/brokermr810/QuantDinger.git
 cd QuantDinger
-Copy-Item docker.env.example -Destination backend_api_python\.env
+Copy-Item backend_api_python\env.example -Destination backend_api_python\.env
 docker-compose up -d --build
 ```
 
